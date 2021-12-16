@@ -1,0 +1,28 @@
+{
+  "name": "id-key-cumacea",
+  "version": "1.0.0",
+  "description": "projeto do mestrado",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-luiza-duda/id-key-cumacea.git"
+  },
+  "keywords": [
+    "cumacea",
+    "campylaspis"
+  ],
+  "author": "maria-luiza-duda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria-luiza-duda/id-key-cumacea/issues"
+  },
+  "homepage": "https://github.com/maria-luiza-duda/id-key-cumacea#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
